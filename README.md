@@ -1,10 +1,9 @@
 ESX Simple Give Script
 ============
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IgorAntun/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
+This is a script that makes it easier when admin wants to give an item without typing long and confused in chat
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+![Chat Preview](![WhatsApp Image 2024-09-05 at 23 37 20_84691d7b](https://github.com/user-attachments/assets/b07845ba-b1b1-4d4f-9a2e-181c1e100b1e))
 
 ---
 ## Buy me a coffee
