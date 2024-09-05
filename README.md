@@ -3,36 +3,26 @@ ESX Simple Give Script
 
 This is a script that makes it easier when admin wants to give an item without typing long and confused in chat
 
-![Chat Preview](![WhatsApp Image 2024-09-05 at 23 37 20_84691d7b](https://github.com/user-attachments/assets/b07845ba-b1b1-4d4f-9a2e-181c1e100b1e))
+![WhatsApp Image 2024-09-05 at 23 37 20_84691d7b](https://github.com/user-attachments/assets/b07845ba-b1b1-4d4f-9a2e-181c1e100b1e)
 
 ---
 ## Buy me a coffee
 
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
 
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://saweria.co/SawerJaya" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ---
 
 ## Features
-- Material Design
-- Emoji support
-- User @mentioning
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
-- Other awesome features yet to be implemented
+- The script is light and only runs at remon 0.00
+- Simple Configuration
+- Ez use
 
-![User Features](http://i.imgur.com/WbF1fi2.png)
-
-![Admin Features](http://i.imgur.com/xQFaadt.png)
-
-
-#### There are 3 admin levels:
-- **Helper:** Can delete chat messages
-- **Moderator:** The above plus the ability to kick and ban users
-- **Administrator:** All the above plus send global alerts and promote/demote users
+#### Require to runing this script1:
+- <a href ="https://github.com/esx-framework/esx_core">es_extended<a>
+- <a href ="https://github.com/overextended/ox_lib">ox_lib<a>
+- <a href ="https://github.com/overextended/ox_inventory">ox_inventory<a>
 
 ---
 
