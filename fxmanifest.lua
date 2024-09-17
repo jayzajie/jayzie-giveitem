@@ -3,7 +3,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Your Name'
+author 'jayzie-giveitem'
 description 'Give Item Script using ox_lib and ox_inventory'
 version '1.0.0'
 
